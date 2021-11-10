@@ -110,6 +110,7 @@ position:relative;
         padding: 6px 25px;
         font-size:${fontSize.main};
         cursor:pointer;
+            text-align: center;
     }
 
     & >:first-child{
