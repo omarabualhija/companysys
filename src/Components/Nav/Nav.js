@@ -9,7 +9,7 @@ export const Nav = () => {
         <div>
           <NavLink to="/Business">customers</NavLink>
           <NavLink to="/Accounts">departments</NavLink>
-          <NavLink to="/Order">employees</NavLink>
+          <NavLink to="/">employees</NavLink>
           <NavLink to="/Works">Works</NavLink>
           <NavLink to="/User">Tasks</NavLink>
         </div>

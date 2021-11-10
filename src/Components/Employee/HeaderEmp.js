@@ -1,5 +1,5 @@
 import React from 'react'
-import {HeaderTable} from "./OrderStyle"
+import {HeaderTable} from "./employeeStyle"
 
 export const HeaderEmp = () => {
 

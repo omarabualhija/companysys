@@ -1,5 +1,5 @@
 import {NavLink} from "react-router-dom"
-import {Main,OrderBtn,SidBar,Search,Contents,BorderBottom,AddOrderBtn} from "./OrderStyle"
+import {Main,OrderBtn,SidBar,Search,Contents,BorderBottom,AddOrderBtn} from "./employeeStyle"
 import Container from "../Container/Container";
 import {FilterDate} from "./FilterDate"
 import {SearchFilter} from "./SearchFilter"

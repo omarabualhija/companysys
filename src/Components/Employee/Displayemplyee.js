@@ -1,5 +1,5 @@
 import React from 'react'
-import {ItemsOrder} from "./OrderStyle"
+import {ItemsOrder} from "./employeeStyle"
 export const Displayemplyee = ({dataEmployee}) => {
 
     const itemsOrder=()=>(dataEmployee.map((e)=>
