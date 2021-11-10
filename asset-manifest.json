@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/companysys/static/css/main.b0472366.chunk.css",
-    "main.js": "/companysys/static/js/main.6961be68.chunk.js",
-    "main.js.map": "/companysys/static/js/main.6961be68.chunk.js.map",
+    "main.js": "/companysys/static/js/main.552e15d2.chunk.js",
+    "main.js.map": "/companysys/static/js/main.552e15d2.chunk.js.map",
     "runtime-main.js": "/companysys/static/js/runtime-main.39c2d804.js",
     "runtime-main.js.map": "/companysys/static/js/runtime-main.39c2d804.js.map",
     "static/css/2.11593354.chunk.css": "/companysys/static/css/2.11593354.chunk.css",
-    "static/js/2.6edd55d9.chunk.js": "/companysys/static/js/2.6edd55d9.chunk.js",
-    "static/js/2.6edd55d9.chunk.js.map": "/companysys/static/js/2.6edd55d9.chunk.js.map",
+    "static/js/2.de1cca17.chunk.js": "/companysys/static/js/2.de1cca17.chunk.js",
+    "static/js/2.de1cca17.chunk.js.map": "/companysys/static/js/2.de1cca17.chunk.js.map",
     "index.html": "/companysys/index.html",
     "static/css/2.11593354.chunk.css.map": "/companysys/static/css/2.11593354.chunk.css.map",
     "static/css/main.b0472366.chunk.css.map": "/companysys/static/css/main.b0472366.chunk.css.map",
-    "static/js/2.6edd55d9.chunk.js.LICENSE.txt": "/companysys/static/js/2.6edd55d9.chunk.js.LICENSE.txt"
+    "static/js/2.de1cca17.chunk.js.LICENSE.txt": "/companysys/static/js/2.de1cca17.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.39c2d804.js",
     "static/css/2.11593354.chunk.css",
-    "static/js/2.6edd55d9.chunk.js",
+    "static/js/2.de1cca17.chunk.js",
     "static/css/main.b0472366.chunk.css",
-    "static/js/main.6961be68.chunk.js"
+    "static/js/main.552e15d2.chunk.js"
   ]
 }
