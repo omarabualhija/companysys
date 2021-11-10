@@ -7,11 +7,11 @@ export const Nav = () => {
     <NavBar>
       <Container>
         <div>
-          <NavLink to="/Business">customers</NavLink>
-          <NavLink to="/Accounts">departments</NavLink>
-          <NavLink to="/Order">employees</NavLink>
+          <NavLink to="/customers">customers</NavLink>
+          <NavLink to="/departments">departments</NavLink>
+          <NavLink to="/employees">employees</NavLink>
           <NavLink to="/Works">Works</NavLink>
-          <NavLink to="/User">Tasks</NavLink>
+          <NavLink to="/Tasks">Tasks</NavLink>
         </div>
         <button>Setting</button>
       </Container>
