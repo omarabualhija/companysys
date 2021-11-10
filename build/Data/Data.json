@@ -1,0 +1,123 @@
+[
+    {
+      "Id":"100",
+      "Name":"Sarah Moanees",
+      "img":"https://omarabualhija.github.io/static/img/personal.jpg",
+      "StartWork":"OCT 12 2021",
+       "Department":"IT",
+      "Salary":"380 $",
+      "numberOffice":"A5",
+      "rating":"excellent"
+
+    },
+    {
+        "Id":"200",
+        "Name":"Patty O'Furniture.",
+        "img":"https://omarabualhija.github.io/static/img/personal.jpg",
+         "StartWork":"JAN 06 2020",
+        "Department":"IT",
+        "Salary":"654 $",
+        "numberOffice":"Z1",
+        "rating":"very-good"
+  
+      },
+      {
+        "Id":"300",
+        "Name":"Paddy O'Furniture",
+        "img":"https://omarabualhija.github.io/static/img/personal.jpg",
+         "StartWork":"NOV 02 2020",
+          "Department":"IT",
+        "Salary":"680 $",
+        "numberOffice":"s5",
+        "rating":"weak"
+  
+      },
+      {
+        "Id":"400",
+        "Name":"Maureen Biologist.",
+        "img":"https://omarabualhija.github.io/static/img/personal.jpg",
+         "StartWork":"MAY 08 2021",
+          "Department":"IT",
+        "Salary":"710 $",
+        "numberOffice":"p5",
+        "rating":"under-probation" 
+        
+  
+      },
+      {
+        "Id":"500",
+        "Name":"Teri Dactyl.",
+        "img":"https://omarabualhija.github.io/static/img/personal.jpg",
+         "StartWork":"FEB 05 2020",
+          "Department":"IT",
+        "Salary":"340 $",
+        "numberOffice":"A3",
+        "rating":"weak"
+  
+      },
+      {
+        "Id":"600",
+        "Name":"Jack Aranda",
+        "img":"https://omarabualhija.github.io/static/img/personal.jpg",
+         "StartWork":"AUG 10 2021",
+          "Department":"IT",
+        "Salary":"150 $",
+        "numberOffice":"FGV5",
+        "rating":"good"
+  
+      },
+      {
+        "Id":"700",
+        "Name":"Pat Thettick",
+        "img":"https://omarabualhija.github.io/static/img/personal.jpg",
+         "StartWork":"OCT 01 2021",
+          "Department":"IT",
+        "Salary":"680 $",
+        "numberOffice":"SXX5",
+        "rating":"excellent"
+  
+      },
+      {
+        "Id":"800",
+        "Name":"Dee Mandingboss",
+        "img":"https://omarabualhija.github.io/static/img/personal.jpg",
+         "StartWork":"JAN 30 2020",
+          "Department":"IT",
+        "Salary":"940 $",
+        "numberOffice":"xD4",
+        "rating":"good"
+  
+      },
+      {
+        "Id":"900",
+        "Name":"Willie Makit",
+        "img":"https://omarabualhija.github.io/static/img/personal.jpg",
+         "StartWork":"MAR 09 2021",
+          "Department":"IT",
+        "Salary":"130 $",
+        "numberOffice":"F85",
+        "rating":"weak"
+  
+      },
+      {
+        "Id":"1000",
+        "Name":"Manny Jah",
+        "img":"https://omarabualhija.github.io/static/img/personal.jpg",
+         "StartWork":"APR 09 2021",
+        "Department":"IT",
+        "Salary":"760 $",
+        "numberOffice":"xD7",
+        "rating":"good"
+  
+      },
+      {
+        "Id":"1100",
+        "Name":"Stan Dupp",
+        "img":"https://omarabualhija.github.io/static/img/personal.jpg",
+         "StartWork":"FEB 01 2020",
+          "Department":"IT",
+        "Salary":"680 $",
+        "numberOffice":"F21",
+        "rating":"excellent"
+  
+      }]
