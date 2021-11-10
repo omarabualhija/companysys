@@ -10,7 +10,7 @@ export const Routers = (props) => {
 <Route exact path="#" ></Route>
 <Route exact path="#" ></Route>
 <Route exact path="#" ></Route>
-<Route exact path="companysys/Order" ><Order {...props} /></Route>
+<Route exact path="/Order" ><Order {...props} /></Route>
 <Route exact path="#" ></Route>
 </Switch>
         </div>
