@@ -310,7 +310,10 @@ ${()=>dataEmployee==='good'&&` background-color: #515E63 `}
 
         gap:5px;
     };
-
+$ > span{
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
 };
 
 
