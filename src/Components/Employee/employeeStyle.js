@@ -229,6 +229,8 @@ export const BoxData=styled.div`
 
 export const HeaderTable=styled(BoxData)`
     border-top: 1px solid ${props=>props.theme.backgroundColors.alt};
+    padding: 0 2.2%;
+    text-align: center;
 
 `
 
@@ -256,6 +258,7 @@ color:${(props)=>props.theme.colors.main};
 export const ItemsOrder=styled(BoxData)`
     border-radius: 8px;
     padding: 10px 2.2%;
+    text-align: center;
      position: relative;
      overflow: hidden;
     z-index:0;
