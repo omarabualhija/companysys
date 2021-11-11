@@ -202,25 +202,28 @@ outline:none;
 export const BoxData=styled.div`
 
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(70px,1fr));
+    /* grid-template-columns: repeat(auto-fit,minmax(70px,1fr)); */
+    grid-template-columns: 10% 20% 12% 15% 10% 10% 10%;
+    gap:2.2%;
     align-items: center;
     font-size: 12px;
     min-height: 40px;
-    text-align: center;
+    
     margin-top: 10px;
-    gap:5px;
+ 
     color: ${(props)=>props.theme.colors.main};
+
     @media(max-width:768px){
-    grid-template-columns: repeat(auto-fit,minmax(50px,1fr));
+    /* grid-template-columns: repeat(auto-fit,minmax(50px,1fr)); */
     font-size:8px;
 }
 @media(max-width:480px){
     font-size:7px;
-    grid-template-columns: repeat(auto-fit,minmax(30px,1fr));
+    /* grid-template-columns: repeat(auto-fit,minmax(30px,1fr)); */
 }
 @media(max-width:290px){
     font-size:6px;
-    grid-template-columns: repeat(auto-fit,minmax(23px,1fr));
+    /* grid-template-columns: repeat(auto-fit,minmax(23px,1fr)); */
 }
 `
 
@@ -252,7 +255,7 @@ color:${(props)=>props.theme.colors.main};
 
 export const ItemsOrder=styled(BoxData)`
     border-radius: 8px;
-    padding: 10px 0;
+    padding: 10px 2.2%;
      position: relative;
      overflow: hidden;
     z-index:0;
@@ -303,7 +306,8 @@ ${()=>dataEmployee==='good'&&` background-color: #515E63 `}
     @media(max-width:480px){
 
         gap:5px;
-    }
+    };
+
 };
 
 
